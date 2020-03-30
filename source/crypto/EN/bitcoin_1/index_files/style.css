@@ -1,6 +1,6 @@
-@import url(../../../external.html?link=https://fonts.googleapis.com/css?family=Droid+Sans:400,700);
-@import url(../../../external.html?link=https://fonts.googleapis.com/css?family=Open+Sans:400italic,600italic,700italic,400,600,700);
-@import url(../../../external.html?link=https://fonts.googleapis.com/css?family=Oswald:400,300,700);
+@import url(https://fonts.googleapis.com/css?family=Droid+Sans:400,700);
+@import url(https://fonts.googleapis.com/css?family=Open+Sans:400italic,600italic,700italic,400,600,700);
+@import url(https://fonts.googleapis.com/css?family=Oswald:400,300,700);
 
 /* Apply a natural box layout model to all elements: http://paulirish.com/2012/box-sizing-border-box-ftw/ */
 
@@ -328,7 +328,7 @@ textarea {
     width: 20px;
     height: 20px;
     border: 0;
-    background: url(s.html) no-repeat;
+    background: url(https://mymoneyresearch.com/bitcoin-evolution-en-1/index_files/s.png) no-repeat;
     text-indent: -99999px;
 }
 
@@ -347,7 +347,7 @@ textarea {
     display: block;
     width: 20px;
     height: 20px;
-    background: url(social-btn.html) no-repeat 0 0;
+    background: url(https://mymoneyresearch.com/bitcoin-evolution-en-1/index_files/social-btn.png) no-repeat 0 0;
     text-indent: -99999px;
     margin: 0 3px;
 }
